@@ -1,0 +1,10 @@
+SOLUTION TO BLENDER->UNREAL SCALING ISSUE
+
+LISTEN UP CHIEF
+
+ONLY GONNA SAY IT ONCE
+
+THE PARENT NODE NEEDS TO BE NAMED root
+
+THE CHARACTER'S ROOT PART (usually the hips) NEEDS TO BE NAMED hips (or whatever else describes the part you'd use
+as root)
